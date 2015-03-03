@@ -1,0 +1,10 @@
+/* stylesheet.css is a custom style sheet linked to the 5 index_brunch.html files (savory, sweet, sandwiches, sides, drinks) */
+
+.thumbnail {
+	background-color:#FF8330;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}

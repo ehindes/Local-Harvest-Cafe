@@ -1,4 +1,4 @@
-/* stylesheet.css is a custom style sheet*/
+/* stylesheet.css is a custom style sheet linked to all .html files */
 
 body {
 	background-image:url(http://cdn.vectorstock.com/i/composite/86,33/carrot-seamless-pattern-background-vector-2008633.jpg);
@@ -25,7 +25,6 @@ color: black;
 .h3 {
 	text-align:center;
 }
-
 
 
 .socialmedia {
