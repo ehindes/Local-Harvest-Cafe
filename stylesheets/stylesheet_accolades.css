@@ -28,3 +28,22 @@
 	margin-left:40px;
 }
 
+.thumbnail {
+	background-color:#ff8330;
+}
+
+.btn {
+	background-color:yellowgreen;
+}
+
+a:link, a:visited {
+	color:black;
+}
+
+a:hover {
+	text-decoration:none;
+	color:white;
+}
+
+
+
