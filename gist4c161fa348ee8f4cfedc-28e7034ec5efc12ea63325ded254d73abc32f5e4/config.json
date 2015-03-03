@@ -1,6 +1,6 @@
 {
   "vars": {
-    "@gray-base": "#000",
+    "@gray-base": "#9acd32",
     "@gray-darker": "lighten(@gray-base, 13.5%)",
     "@gray-dark": "lighten(@gray-base, 20%)",
     "@gray": "lighten(@gray-base, 33.5%)",
@@ -12,7 +12,7 @@
     "@brand-warning": "#f0ad4e",
     "@brand-danger": "#d9534f",
     "@body-bg": "#fff",
-    "@text-color": "@black",
+    "@text-color": "black",
     "@link-color": "@brand-primary",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "none",
@@ -324,7 +324,7 @@
     "@panel-danger-border": "@state-danger-border",
     "@panel-danger-heading-bg": "@state-danger-bg",
     "@thumbnail-padding": "4px",
-    "@thumbnail-bg": "#FF8330",
+    "@thumbnail-bg": "#ff8330",
     "@thumbnail-border": "#ddd",
     "@thumbnail-border-radius": "@border-radius-base",
     "@thumbnail-caption-color": "@text-color",

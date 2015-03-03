@@ -8,3 +8,11 @@ a {
 	color: black;
 	text-decoration: none;
 }
+
+.btn {
+	background-color:yellowgreen;
+}
+
+.col-md-4 {
+	text-align:center;
+}
